@@ -47,7 +47,7 @@ This project demonstrates how Excel-based analytics can:
 - `orders_data.xlsx` – orders data
 - `returns_data.xlsx` – retured orders data 
 - `Sales Report.pdf` – Sales visualization reports.
-- `Store Sales Analysis.xlsx` – Excel Report Sheet.
+- `SalesAnalysis.xlsx` – Excel Report Sheet.
 - `README.md` – Project documentation  
 
 ---
